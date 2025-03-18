@@ -3,3 +3,6 @@ structure of project
 model class
 DAO class
 Service class
+Employee class
+EmployeeDAO
+EmployeeService
